@@ -1,0 +1,13 @@
+Pipeline: 
+using ZenML, a MLOps framework that helps in managing machine learning 
+workflos and MLflow, used for experiment tracking and model deployment
+
+Primary goal: Predict house prices 
+
+1. Limited Exploration
+2. Basic Model Training
+3. Lack of Iteration
+4. MLOps and Production Readiness
+
+3 Design Patterns
+Factory_design_Pattern
