@@ -1,0 +1,4 @@
+Components: trends, seasons, cycles
+visualize time series plots
+create forecasting hybrids
+Adapt ML method
