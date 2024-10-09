@@ -9,3 +9,10 @@ Eg: window = 12 -> Tính trung bình của 12 điểm liên tiếp
 center = True: con trỏ nằm giữa cửa sổ tính toán, center = false: giá trị đặt cuối cửa sổ 
 min_periods: Có thể tính toán cần tối tiểu 6 giá trị
 mean(): tính toán trung bình mỗi cửa sổ 
+
+DeterministicProcess: huộc time series, xác định xu hướng và chu kì 
+dp.in_sample(): Tạo ma trận xác định dữ liệu chuỗi thời gian
+
+Seasonality
+Fourier features
+Periodogram
