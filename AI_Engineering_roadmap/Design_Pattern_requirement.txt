@@ -1,0 +1,5 @@
+Recommended Learning Path for Design Patterns:
+
+    Months 1-6: Learn basic design patterns (Singleton, Factory, Strategy, Observer).
+    Months 7-12: Learn intermediate patterns (Decorator, Adapter, Builder).
+    Year 2: Focus on applying advanced design patterns (Facade, Command, Composite) to large-scale AI systems.

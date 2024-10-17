@@ -1,0 +1,38 @@
+Year 1: Building Strong Foundations & Hands-on Experience
+
+1. Deepen Core AI Knowledge
+
+    Machine Learning Algorithms: Focus on mastering the most commonly used algorithms like decision trees, SVM, k-NN, ensemble methods (Random Forest, XGBoost), and gradient boosting.
+    Deep Learning: Gain a solid understanding of deep learning architectures such as CNNs, RNNs, LSTMs, GANs, and Transformers. Also, learn about transfer learning and fine-tuning pre-trained models.
+    Reinforcement Learning (Optional): If you have an interest in advanced AI topics, get some exposure to reinforcement learning.
+
+2. Practical Implementation & Framework Mastery
+
+    Pytorch & TensorFlow: Get hands-on with both frameworks for neural networks and deep learning models.
+    YOLO, Detectron2, Hugging Face: If you’re interested in computer vision and NLP, master these specialized libraries.
+    Scikit-learn: Keep using it for classical machine learning algorithms.
+
+3. Specialize in a Domain
+
+    Pick an AI subfield to specialize in, such as Natural Language Processing (NLP), Computer Vision, or Reinforcement Learning. Dive deep into this area and work on relevant projects.
+
+4. Learn Cloud Services for AI
+
+    Master at least one major cloud platform such as AWS, Azure, or Google Cloud.
+        Learn how to deploy machine learning models using services like AWS Sagemaker, Azure ML, or GCP AI Platform.
+
+5. Start Contributing to Open Source or Kaggle
+
+    Contribute to AI projects on GitHub or compete in Kaggle competitions. This will not only enhance your skills but also build your portfolio.
+    Continue learning and improving ZenML for MLOps.
+
+6. Key Concepts to Learn in Year 1
+
+    Mathematics for AI: Learn the necessary linear algebra, calculus, and probability theory behind AI algorithms.
+    Data Engineering: Build skills in data preprocessing, data augmentation, and handling large datasets (using SQL, Spark, Hadoop).
+    APIs & Deployment: Learn to build REST APIs to serve models and deploy them using Docker and Kubernetes.
+
+Key Milestones for Year 1:
+
+    Build and deploy at least 2 end-to-end AI projects (one solo, one with a team).
+    Gain basic certifications like Azure AI Engineer or AWS Machine Learning – Specialty.

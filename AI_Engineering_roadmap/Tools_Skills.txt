@@ -1,0 +1,8 @@
+Tools & Skills You Should Master by the End of Year 2:
+
+    AI/ML Frameworks: Pytorch, TensorFlow, Scikit-learn, YOLO, Hugging Face
+    MLOps: Docker, Kubernetes, Kubeflow, MLflow, ZenML
+    Cloud Platforms: AWS, Azure, GCP (with a focus on AI services)
+    Data Engineering: Apache Spark, Kafka, Hadoop
+    Big Data: Hands-on with scalable systems and large datasets
+    APIs & DevOps: Docker, Kubernetes, REST APIs, CI/CD pipelines
