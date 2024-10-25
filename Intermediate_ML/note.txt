@@ -1,0 +1,42 @@
+$$$ Day1:
+
+#read data
+X_full = pd.read_csv('../input/train.csv', index_col='Id')
+
+#remove rows
+X_full.dropna(axis=0, subset=['SalePrice'], inplace=True)
+
+# Compare model
+model.fit(X_t, y_t)
+preds = model.predict(X_v)
+return mean_absolute_error(y_v, preds)
+
+# Fit the model to the training data
+my_model.fit(X, y)
+
+# Generate test predictions
+preds_test = my_model.predict(X_test)
+
+$$$ Day2:
+
+#train with RandomForest
+model = RandomForestRegressor(n_estimators=100, random_state=0)
+model.fit(X_train, y_train)
+preds = model.predict(X_valid)
+return mean_absolute_error(y_valid, preds)
+
+#Imputation
+imputation = SimpleImputer()
+imputed_X_train = pd.DataFrame(imputation.fit_transform(X_train))
+imputed_X_valid = pd.DataFrame(imputation.transform(X_valid))
+
+# Fill in the lines below: imputation removed column names; put them back
+imputed_X_train.columns = X_train.columns
+imputed_X_valid.columns = X_valid.columns
+
+$$$ Day3:
+1.Drop columns with Categorical data
+2.Ordinal encoding
+3.Investigating cardinality
+4.One hot encoding
+
