@@ -40,5 +40,18 @@ $$$ Day3:
 3.Investigating cardinality
 4.One hot encoding
 
-
-
+$$$ Day4:
+1. Preprocessing for numerical data
+Khởi tạo một transformer để xử lý các dữ liệu số (numerical data).
+2. Preprocessing for categorical data
+Khởi tạo một pipeline để xử lý các dữ liệu phân loại (categorical data).
+3. Bundle preprocessing for numerical and categorical data
+Tạo một transformer tổng hợp để xử lý cả dữ liệu số và dữ liệu phân loại.
+4. Define model
+Khởi tạo mô hình hồi quy Random Forest.
+5. Bundle preprocessing and modeling code in a pipeline
+Tạo một pipeline kết hợp cả bước tiền xử lý và mô hình hóa.
+6. Preprocessing of training data, fit model
+Huấn luyện (fit) pipeline trên dữ liệu huấn luyện.
+7. Preprocessing of validation data, get predictions
+Dự đoán giá trị cho tập dữ liệu xác thực (validation data).
