@@ -54,4 +54,7 @@ Tạo một pipeline kết hợp cả bước tiền xử lý và mô hình hóa
 6. Preprocessing of training data, fit model
 Huấn luyện (fit) pipeline trên dữ liệu huấn luyện.
 7. Preprocessing of validation data, get predictions
-Dự đoán giá trị cho tập dữ liệu xác thực (validation data).
+Dự đoán giá trị cho tập dữ liệu xác thực (validation data)
+
+$$$ Day5:
+Đánh giá model với cross-validation
